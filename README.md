@@ -10,9 +10,9 @@ This repository contains **all my projects from Harvard’s CS50: Introduction t
 
 ## 🚀 About Me
 
-- 🔹 **Role:** AI / Software Engineer  
+- 🔹 **Role:** Data Center Tech/ DevOps
 - 🔹 **Location:** Canada  
-- 🔹 **Languages:** Python, SQL  
+- 🔹 **Languages:** Python, SQL , Linux, Javascript, C++
 - 🔹 **Frameworks & Libraries:** TensorFlow, Keras, NumPy, Scikit-learn  
 - 🔹 **Other Skills:** Algorithms, Reinforcement Learning, Neural Networks, NLP, Git & GitHub  
 - 🔹 **LinkedIn:** [https://www.linkedin.com/in/mskhan25/](https://www.linkedin.com/in/mskhan25/)
@@ -67,5 +67,6 @@ cd cs50-ai-projects
 2. Navigate to a project folder:
 cd tictactoe
 python tictactoe.py
+
 
 3. Note: Some projects (like Traffic) require external datasets. See individual project READMEs for details.
