@@ -1,4 +1,4 @@
-﻿# 🌟 Muhammad Khan – AI & Python Developer
+﻿# 🌟 Muhammad Khan – AI & Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MS%20Khan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mskhan25/)  
 [![GitHub](https://img.shields.io/badge/GitHub-MS%20Khan-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MSKhan-dev)
@@ -70,4 +70,5 @@ python tictactoe.py
 
 
 3. Note: Some projects (like Traffic) require external datasets. See individual project READMEs for details.
+
 
