@@ -1,0 +1,10 @@
+# Ignore traffic sign dataset
+traffic/gtsrb/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env
