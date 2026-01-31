@@ -23,17 +23,17 @@ This repository contains **all my projects from Harvard’s CS50: Introduction t
 
 | Project | Topic | Description |
 |--------|-------|-------------|
-| [Degrees](degrees/README.md) | Graph Search | Finds shortest connection between actors using BFS |
-| [Tic-Tac-Toe](tictactoe/README.md) | Adversarial Search | AI that plays optimally using Minimax |
-| [Knights](knights/README.md) | Logic | Solves Knights and Knaves puzzles using propositional logic |
-| [Minesweeper](minesweeper/README.md) | Knowledge Inference | Deduce safe cells and mines logically |
-| [PageRank](pagerank/README.md) | Probability | Ranks web pages using Markov chains |
-| [Heredity](heredity/README.md) | Bayesian Networks | Predicts genetic traits using conditional probabilities |
-| [Crossword](crossword/README.md) | Constraint Satisfaction | Automatically solves crossword puzzles |
-| [Shopping](shopping/README.md) | Machine Learning | Predicts customer purchase using k-NN |
-| [Nim](nim/README.md) | Reinforcement Learning | Learns optimal strategy via Q-Learning |
-| [Traffic](traffic/README.md) | Neural Networks | Classifies traffic signs using CNNs (**dataset not included**) |
-| [Parser](parser/README.md) | NLP | Parses English sentences and outputs parse trees |
+| [Degrees](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/degrees) | Graph Search | Finds shortest connection between actors using BFS |
+| [Tic-Tac-Toe](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/tictactoe) | Adversarial Search | AI that plays optimally using Minimax |
+| [Knights](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/knights) | Logic | Solves Knights and Knaves puzzles using propositional logic |
+| [Minesweeper](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/minesweeper) | Knowledge Inference | Deduce safe cells and mines logically |
+| [PageRank](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/pagerank) | Probability | Ranks web pages using Markov chains |
+| [Heredity](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/heredity) | Bayesian Networks | Predicts genetic traits using conditional probabilities |
+| [Crossword](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/crossword) | Constraint Satisfaction | Automatically solves crossword puzzles |
+| [Shopping](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/shopping) | Machine Learning | Predicts customer purchase using k-NN |
+| [Nim](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/nim) | Reinforcement Learning | Learns optimal strategy via Q-Learning |
+| [Traffic](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/traffic) | Neural Networks | Classifies traffic signs using CNNs (**dataset not included**) |
+| [Parser](https://github.com/MSKhan-dev/cs50-ai-projects/tree/main/parser) | NLP | Parses English sentences and outputs parse trees |
 
 ---
 
