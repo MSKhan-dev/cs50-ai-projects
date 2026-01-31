@@ -10,11 +10,11 @@ This repository contains **all my projects from Harvard’s CS50: Introduction t
 
 ## 🚀 About Me
 
-- 🔹 **Role:** Data Center Tech/ DevOps
+- 🔹 **Role:** Data Center Technician / DevOps Engineer  
 - 🔹 **Location:** Canada  
-- 🔹 **Languages:** Python, SQL , Linux, Javascript, C++
+- 🔹 **Languages & Tools:** Python, SQL, Linux, JavaScript, C++  
 - 🔹 **Frameworks & Libraries:** TensorFlow, Keras, NumPy, Scikit-learn  
-- 🔹 **Other Skills:** Algorithms, Reinforcement Learning, Neural Networks, NLP, Git & GitHub  
+- 🔹 **Other Skills:** Algorithms, Reinforcement Learning, Neural Networks, NLP, Git & GitHub, CI/CD, Server Management  
 - 🔹 **LinkedIn:** [https://www.linkedin.com/in/mskhan25/](https://www.linkedin.com/in/mskhan25/)
 
 ---
@@ -70,3 +70,4 @@ python tictactoe.py
 
 
 3. Note: Some projects (like Traffic) require external datasets. See individual project READMEs for details.
+
